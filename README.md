@@ -1,5 +1,7 @@
-Time Series Analysis Project: Predicting Daily Female Births
+# Time Series Analysis Project: Predicting Daily Female Births
+
 #Overview
+
 This project aims to perform time series analysis on daily female birth data to predict future birth counts. The dataset contains daily total female births in California in the year 1959.
 
 #Dataset
